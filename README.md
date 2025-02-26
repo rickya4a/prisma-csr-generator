@@ -120,7 +120,3 @@ npm run dev
 ## License
 
 MIT
-
-## Author
-
-rickya4a
